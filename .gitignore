@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.env
+
+# VSCode
+.vscode/
+
+# Mac/Linux
+.DS_Store
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
